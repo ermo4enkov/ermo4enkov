@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name is Roman. I am happy to see you here!
+
+## Othere places where you can find me
+- [Twitter](https://twitter.com/roman_erme)
+- [LinkedIn](https://www.linkedin.com/in/ermo4enkov/)
 
 <!--
 **ermo4enkov/ermo4enkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
