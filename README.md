@@ -4,6 +4,8 @@
 - [Twitter](https://twitter.com/roman_erme)
 - [LinkedIn](https://www.linkedin.com/in/ermo4enkov/)
 
+
+### 🌱 I’m currently learning: https://www.coursera.org/learn/build-a-computer
 <!--
 **ermo4enkov/ermo4enkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
