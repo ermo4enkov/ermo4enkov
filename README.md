@@ -1,7 +1,8 @@
 ### Hi there 👋 my name is Roman. I am happy to see you here!
 
 ## Othere places where you can find me
-            [Twitter](https://twitter.com/roman_erme) | [LinkedIn](https://www.linkedin.com/in/ermo4enkov/)
+- [Twitter](https://twitter.com/roman_erme) 
+- [LinkedIn](https://www.linkedin.com/in/ermo4enkov/)
 
 
 #### 🌱 I’m currently learning: https://www.coursera.org/learn/build-a-computer
